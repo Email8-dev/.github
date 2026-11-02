@@ -4,6 +4,28 @@
 
 Email8 is the email vertical of the Sentin8 platform - a complete mail infrastructure: SMTP/IMAP/POP3/SIEVE protocols, message storage, access control, and webmail. Every new Sentin8:Auth user with an email address automatically gets a mail account with INBOX/Trash/Junk/Drafts/Sent/Archive mailboxes provisioned within seconds of sign-up.
 
+## Infrastructure independence
+
+**Sentin8** and Email8 redefine infrastructure independence by delivering
+massive scale directly onto bare-metal, private cloud, and all major
+public cloud environments - including **AWS, GCP, and Azure**. Engineered
+to bypass the complexity and overhead of Kubernetes or heavy service
+meshes, Sentin8 features native auto-scaling and self-healing capabilities
+built directly into its core with **minimal to no external dependencies**.
+It is purpose-built for ultra-low latency and maximum efficiency, proven
+in testing to power real-time services with a blistering throughput of
+5,000,000 transactions per second (TPS). With Sentin8, you get
+cloud-native resilience and elite performance, stripped of the operational
+tax.
+
+Architected for ultimate versatility, Sentin8 is being designed and tested
+to power infrastructure across the entire business spectrum, from
+**Tier 1 global enterprises to fast-growing startups**. Whether you are
+managing massive legacy workloads at the highest enterprise scale or
+launching a lean, high-velocity application from a garage, Sentin8
+provides the exact same battle-tested reliability and performance to
+match your operational needs.
+
 > **A note on our history.** If you found your way here looking for
 > **PRIME** - `authPrime`, `exchangePRIME`, and family - you're in the
 > right place. Those projects are this one: our open-source
